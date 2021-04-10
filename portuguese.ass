@@ -1,0 +1,379 @@
+﻿[Script Info]
+Title: [Erai-raws] Português (Brasil)
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: Italics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+Style: Flashback,Trebuchet MS,22,&H00FBFBFE,&H000000FF,&H005C0718,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+Style: Flashback Top,Trebuchet MS,22,&H00FBFBFE,&H000000FF,&H005C0718,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,0
+Style: Flashback Italics,Trebuchet MS,22,&H00FBFBFE,&H000000FF,&H005C0718,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+Style: EpTitle,Times New Roman,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0021,0021,0130,0
+Style: sign_17934_196_Bra__adeira_dos_,Times New Roman,16,&H00FFFFFF,&H000000FF,&H0066731C,&H00000067,-1,0,0,0,100,100,0,0,3,2,0,7,0052,0308,0049,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.20,0:00:03.83,Flashback,,0000,0000,0000,,Nós fomos abandonados.
+Dialogue: 0,0:00:03.83,0:00:08.00,Flashback,,0000,0000,0000,,Por isso nós moramos nesse distrito de\Nconcentração cercado por uma muralha.
+Dialogue: 0,0:00:08.00,0:00:11.63,Flashback,,0000,0000,0000,,Nas nossas veias corre o sangue do diabo.
+Dialogue: 0,0:00:12.54,0:00:15.50,Flashback,,0000,0000,0000,,É por isso que você também não tem pai.
+Dialogue: 0,0:00:17.01,0:00:20.74,Flashback,,0000,0000,0000,,O seu pai é Marleyano.
+Dialogue: 0,0:00:22.26,0:00:25.85,Flashback,,0000,0000,0000,,Ele não pode ficar com Eldianos.
+Dialogue: 0,0:00:26.71,0:00:28.85,Flashback,,0000,0000,0000,,Se você tivesse nascido Marleyano...
+Dialogue: 0,0:00:36.74,0:00:39.86,Default,,0000,0000,0000,,Isso mesmo, naquela hora, eu...
+Dialogue: 0,0:00:40.91,0:00:44.31,Default,,0000,0000,0000,,queria me tornar um guerreiro\Npara me tornar Marleyano.
+Dialogue: 0,0:00:49.94,0:00:51.37,Flashback,,0000,0000,0000,,Quem disse para vocês caminharem?
+Dialogue: 0,0:00:51.77,0:00:55.13,Flashback,,0000,0000,0000,,Seus descendentes de porcos sujos!
+Dialogue: 0,0:00:55.13,0:00:58.06,Flashback,,0000,0000,0000,,Parece que vocês não querem se\Ntornar Marleyanos honorários.
+Dialogue: 0,0:01:01.71,0:01:03.23,Flashback,,0000,0000,0000,,Vocês já sabem?
+Dialogue: 0,0:01:03.23,0:01:06.89,Flashback,,0000,0000,0000,,Eles estão se preparando para atacar\Na ilha Paradis daqui alguns anos.
+Dialogue: 0,0:01:08.37,0:01:11.43,Flashback,,0000,0000,0000,,Chegou a hora de herdarmos os titãs.
+Dialogue: 0,0:01:11.86,0:01:15.14,Flashback,,0000,0000,0000,,De nós sete, seis vão se\Ntornar imediatamente.
+Dialogue: 0,0:01:15.43,0:01:16.86,Flashback,,0000,0000,0000,,Beleza!
+Dialogue: 0,0:01:17.29,0:01:19.11,Flashback,,0000,0000,0000,,Assim eu poderei me tornar um Marleyano.
+Dialogue: 0,0:01:19.11,0:01:21.11,Flashback,,0000,0000,0000,,Hã? O que você fez?
+Dialogue: 0,0:01:21.11,0:01:23.74,Flashback,,0000,0000,0000,,Se alguém for sobrar, vai ser você.
+Dialogue: 0,0:01:23.74,0:01:24.77,Flashback,,0000,0000,0000,,O que disse?
+Dialogue: 0,0:01:24.77,0:01:27.20,Flashback,,0000,0000,0000,,Quais são os seus pontos fortes?
+Dialogue: 0,0:01:28.06,0:01:29.26,Flashback,,0000,0000,0000,,Força física?
+Dialogue: 0,0:01:29.26,0:01:30.37,Flashback,,0000,0000,0000,,Inteligência?
+Dialogue: 0,0:01:30.37,0:01:31.60,Flashback,,0000,0000,0000,,Pontaria?
+Dialogue: 0,0:01:31.60,0:01:33.46,Flashback,,0000,0000,0000,,Artes marciais?
+Dialogue: 0,0:01:33.46,0:01:38.96,Flashback,,0000,0000,0000,,Não. Você foi avaliado pela lealdade a Marley\Nque você mostrou numa prova escrita, não é?
+Dialogue: 0,0:01:39.46,0:01:43.60,Flashback,,0000,0000,0000,,"Eu vou mostrar que posso matar\Ntodos os diabos que existem na ilha".
+Dialogue: 0,0:01:44.17,0:01:46.71,Flashback,,0000,0000,0000,,Está zoando da nossa missão?
+Dialogue: 0,0:01:46.71,0:01:50.06,Flashback,,0000,0000,0000,,Ou então você é um dos remanescentes\Ndos restauracionistas de Eldia?
+Dialogue: 0,0:01:50.06,0:01:51.00,Flashback,,0000,0000,0000,,Hã?
+Dialogue: 0,0:01:51.00,0:01:54.97,Flashback,,0000,0000,0000,,Só pode ser isso! Sem dúvidas!\NEu vou relatar para o comandante!
+Dialogue: 0,0:01:55.37,0:01:58.40,Flashback,,0000,0000,0000,,Chega dessa palhaçada, desgraçado!
+Dialogue: 0,0:01:58.40,0:02:00.29,Flashback,,0000,0000,0000,,Que desgraçado!
+Dialogue: 0,0:01:59.97,0:02:01.03,Flashback Top,,0000,0000,0000,,Afaste-se, Porco!
+Dialogue: 0,0:02:01.71,0:02:03.80,Flashback,,0000,0000,0000,,Qualquer um pode falar\No quanto odeia a ilha.
+Dialogue: 0,0:02:04.31,0:02:07.41,Flashback,,0000,0000,0000,,Você pode ficar aqui esperando 13 anos!
+Dialogue: 0,0:02:09.80,0:02:10.80,Flashback,,0000,0000,0000,,Porco!
+Dialogue: 0,0:02:10.80,0:02:12.40,Flashback,,0000,0000,0000,,Vamos, Pieck.
+Dialogue: 0,0:02:12.83,0:02:14.49,Flashback,,0000,0000,0000,,Venham assim que ele parar de chorar.
+Dialogue: 0,0:02:14.49,0:02:17.66,Flashback,,0000,0000,0000,,Se vocês se atrasarem, serão\Nespancados pelo comandante.
+Dialogue: 0,0:02:18.34,0:02:19.29,Flashback,,0000,0000,0000,,Reiner.
+Dialogue: 0,0:02:19.91,0:02:21.34,Flashback,,0000,0000,0000,,Me desculpe.
+Dialogue: 0,0:02:24.40,0:02:26.09,Flashback,,0000,0000,0000,,Levante-se, Reiner.
+Dialogue: 0,0:02:26.64,0:02:28.17,Flashback,,0000,0000,0000,,Anda.
+Dialogue: 0,0:02:29.26,0:02:30.29,Flashback,,0000,0000,0000,,Eu...
+Dialogue: 0,0:02:30.29,0:02:34.29,Flashback,,0000,0000,0000,,Vou me tornar um Marleyano e viverei\Njunto com minha mãe e meu pai.
+Dialogue: 0,0:02:34.29,0:02:36.11,Flashback,,0000,0000,0000,,Não posso esperar 13 anos.
+Dialogue: 0,0:02:36.11,0:02:40.27,Flashback,,0000,0000,0000,,Mas como ele falou, eu sou um inútil...
+Dialogue: 0,0:02:40.66,0:02:42.89,Flashback,,0000,0000,0000,,Não é o Porco que vai decidir os herdeiros.
+Dialogue: 0,0:02:42.89,0:02:45.89,Flashback,,0000,0000,0000,,Além disso, lealdade\Ntambém é importante.
+Dialogue: 0,0:02:46.26,0:02:47.41,Flashback,,0000,0000,0000,,Não é, Annie?
+Dialogue: 0,0:02:48.60,0:02:49.83,Flashback,,0000,0000,0000,,Hã? O que foi?
+Dialogue: 0,0:02:50.17,0:02:51.57,Flashback,,0000,0000,0000,,Não estava ouvindo.
+Dialogue: 0,0:02:59.74,0:03:02.57,Flashback,,0000,0000,0000,,Mas tudo bem, se tiver esse objetivo?
+Dialogue: 0,0:03:02.57,0:03:03.09,Flashback,,0000,0000,0000,,Hã?
+Dialogue: 0,0:03:03.43,0:03:05.71,Flashback,,0000,0000,0000,,Só terá 13 anos.
+Dialogue: 0,0:03:07.29,0:03:10.49,Flashback,,0000,0000,0000,,Mas eu serei um herói por 13 anos.
+Dialogue: 0,0:03:11.46,0:03:13.83,Flashback,,0000,0000,0000,,Se eu punir os demônios\Nque vivem na ilha Paradis,
+Dialogue: 0,0:03:13.83,0:03:15.80,Flashback,,0000,0000,0000,,poderei salvar o mundo.
+Dialogue: 0,0:03:15.80,0:03:19.63,Flashback,,0000,0000,0000,,E então eu me tornarei o filho que\Ntrará mais orgulho aos seus pais.
+Dialogue: 0,0:03:23.36,0:03:24.86,Flashback,,0000,0000,0000,,Ah...
+Dialogue: 0,0:03:24.86,0:03:27.77,Flashback,,0000,0000,0000,,Por que não acontece nada?
+Dialogue: 0,0:03:27.77,0:03:29.99,Flashback,,0000,0000,0000,,Eren, você estava aqui!
+Dialogue: 0,0:05:00.02,0:05:05.03,EpTitle,,0000,0000,0000,,Porta da Esperança
+Dialogue: 0,0:05:05.74,0:05:07.71,Flashback,,0000,0000,0000,,Que maravilha.
+Dialogue: 0,0:05:07.71,0:05:09.71,Flashback,,0000,0000,0000,,Eles foram melhores do que o previsto.
+Dialogue: 0,0:05:14.89,0:05:16.63,Flashback,,0000,0000,0000,,A Titã Fêmea.
+Dialogue: 0,0:05:16.63,0:05:19.97,Flashback,,0000,0000,0000,,O forte dela é a capacidade de\Natuar nas mais diversas áreas.
+Dialogue: 0,0:05:19.97,0:05:22.81,Flashback,,0000,0000,0000,,Além de sua alta mobilidade e resistência,
+Dialogue: 0,0:05:22.81,0:05:26.91,Flashback,,0000,0000,0000,,seu dano com o poder de endurecimento dos\Ntitãs dá a ela um incrível poder destrutivo.
+Dialogue: 0,0:05:27.34,0:05:31.86,Flashback,,0000,0000,0000,,O alcance é curto, mas ela também\Né capaz de chamar Titãs Puros.
+Dialogue: 0,0:05:31.86,0:05:34.07,Flashback,,0000,0000,0000,,Leonheart é a melhor.
+Dialogue: 0,0:05:35.70,0:05:38.99,Flashback,,0000,0000,0000,,O Titã Blindado se especializa em\Nhabilidade de endurecimento.
+Dialogue: 0,0:05:39.40,0:05:43.71,Flashback,,0000,0000,0000,,Se golpear com todo o corpo, pode abrir uma\Nporta na muralha com seu poder destrutivo.
+Dialogue: 0,0:05:44.06,0:05:47.71,Flashback,,0000,0000,0000,,Um titã que funciona como um\Nescudo, recebendo ataques,
+Dialogue: 0,0:05:47.71,0:05:50.71,Flashback,,0000,0000,0000,,combina perfeitamente com\Nalguém resistente como o Braun.
+Dialogue: 0,0:05:52.11,0:05:54.47,Flashback,,0000,0000,0000,,O Titã da Mandíbula é um titã ofensivo.
+Dialogue: 0,0:05:55.34,0:05:58.00,Flashback,,0000,0000,0000,,O seu tamanho menor, faz com\Nque seja o mais rápido de todos.
+Dialogue: 0,0:05:58.00,0:06:01.89,Flashback,,0000,0000,0000,,Suas poderosas unhas e mandíbula o\Ntornam capaz de destruir quase tudo.
+Dialogue: 0,0:06:02.40,0:06:04.40,Flashback,,0000,0000,0000,,O encarregamos ao estrategista Marcel.
+Dialogue: 0,0:06:05.60,0:06:08.36,Flashback,,0000,0000,0000,,O Titã Bestial é o mesmo de sempre.
+Dialogue: 0,0:06:08.83,0:06:12.06,Flashback,,0000,0000,0000,,Ele tem o corpo maior do que\Nos outros, mas não é tudo.
+Dialogue: 0,0:06:12.06,0:06:16.03,Flashback,,0000,0000,0000,,Sua técnica de arremesso pode\Nse tornar uma arma assustadora.
+Dialogue: 0,0:06:16.03,0:06:20.03,Flashback,,0000,0000,0000,,Além disso, tem um poder oculto\Nno sangue que circula nele.
+Dialogue: 0,0:06:22.29,0:06:25.33,Flashback,,0000,0000,0000,,O Titã Carroceiro tem uma\Nresistência fora do comum.
+Dialogue: 0,0:06:25.33,0:06:28.51,Flashback,,0000,0000,0000,,Pode ser bem empregado\Nem missões longas.
+Dialogue: 0,0:06:28.51,0:06:33.72,Flashback,,0000,0000,0000,,Pode ser equipado com armamentos,\Naumentando o seu uso estratégico.
+Dialogue: 0,0:06:34.11,0:06:37.01,Flashback,,0000,0000,0000,,É sem dúvidas perfeito para alguém\Ncom o poder decisório da Pieck.
+Dialogue: 0,0:06:38.05,0:06:40.93,Flashback,,0000,0000,0000,,E o Titã Colossal.
+Dialogue: 0,0:06:50.91,0:06:52.51,Flashback,,0000,0000,0000,,O deus da destruição.
+Dialogue: 0,0:06:54.03,0:06:57.03,Flashback,,0000,0000,0000,,O Hoover deve conseguir\Nusá-lo ao máximo.
+Dialogue: 0,0:06:57.03,0:07:00.34,Flashback,,0000,0000,0000,,Eu chego a ter um pouco de\Nsimpatia pelos demônios da ilha.
+Dialogue: 0,0:07:00.34,0:07:03.54,Flashback,,0000,0000,0000,,Porque um dia, de repente,\Nele virá para matar todos eles.
+Dialogue: 0,0:07:04.26,0:07:08.29,Flashback,,0000,0000,0000,,Certamente a competência do novo batalhão\Nde guerreiros está acima dos anteriores.
+Dialogue: 0,0:07:08.29,0:07:11.34,Flashback,,0000,0000,0000,,Mas eu tenho uma dúvida com\Nrelação à decisão do exército.
+Dialogue: 0,0:07:11.69,0:07:16.60,Flashback,,0000,0000,0000,,Não acredito na sanidade de encarregar o\Nplano de recuperação do Fundador a crianças.
+Dialogue: 0,0:07:16.60,0:07:17.77,Flashback,,0000,0000,0000,,É mesmo?
+Dialogue: 0,0:07:17.77,0:07:22.93,Flashback,,0000,0000,0000,,Mas essas crianças não acabaram de\Nesmagar um país inteiro bem na sua frente?
+Dialogue: 0,0:07:22.93,0:07:24.77,Flashback,,0000,0000,0000,,Não é estranho?
+Dialogue: 0,0:07:24.77,0:07:27.14,Flashback,,0000,0000,0000,,Por que um inútil como você foi escolhido?
+Dialogue: 0,0:07:27.14,0:07:28.77,Flashback,,0000,0000,0000,,Que tipo de truque você usou?
+Dialogue: 0,0:07:28.77,0:07:31.29,Flashback,,0000,0000,0000,,Hã? O inútil foi você.
+Dialogue: 0,0:07:31.29,0:07:32.57,Flashback,,0000,0000,0000,,Só isso.
+Dialogue: 0,0:07:32.97,0:07:34.78,Flashback,,0000,0000,0000,,Pock.
+Dialogue: 0,0:07:34.78,0:07:36.49,Flashback,,0000,0000,0000,,Desgraçado!
+Dialogue: 0,0:07:36.49,0:07:40.06,Flashback,,0000,0000,0000,,Porco! Você vai contrariar\Ndecisões do exército?
+Dialogue: 0,0:07:46.31,0:07:47.46,Flashback,,0000,0000,0000,,Reiner...
+Dialogue: 0,0:07:47.94,0:07:49.04,Flashback,,0000,0000,0000,,Me desculpe.
+Dialogue: 0,0:08:03.51,0:08:04.68,Flashback,,0000,0000,0000,,Pai!
+Dialogue: 0,0:08:04.97,0:08:06.29,Flashback,,0000,0000,0000,,É isso, mesmo, não é?
+Dialogue: 0,0:08:06.29,0:08:10.00,Flashback,,0000,0000,0000,,Minha mãe trabalhava nesse\Nquartel antes de eu nascer.
+Dialogue: 0,0:08:10.00,0:08:13.57,Flashback,,0000,0000,0000,,Foi quando você encontrou\Nminha mãe, Karina Braun.
+Dialogue: 0,0:08:13.57,0:08:15.20,Flashback,,0000,0000,0000,,Ei, olha só!
+Dialogue: 0,0:08:15.20,0:08:17.91,Flashback,,0000,0000,0000,,Eu e minha mãe nos tornamos\NMarleyanos honorários!
+Dialogue: 0,0:08:17.91,0:08:19.00,Flashback,,0000,0000,0000,,Assim poderemos viver junt—
+Dialogue: 0,0:08:18.71,0:08:20.07,Flashback Top,,0000,0000,0000,,Chega de palhaçada!
+Dialogue: 0,0:08:20.07,0:08:22.23,Flashback,,0000,0000,0000,,Aquela mulher disse para você vir aqui?
+Dialogue: 0,0:08:22.23,0:08:23.89,Flashback,,0000,0000,0000,,Foi para se vingar de mim?
+Dialogue: 0,0:08:23.89,0:08:27.11,Flashback,,0000,0000,0000,,Que merda! Ainda por cima\Nfez o pirralho virar guerreiro!
+Dialogue: 0,0:08:27.11,0:08:30.83,Flashback,,0000,0000,0000,,Se descobrirem a sua origem,\Nserá o fim da minha família!
+Dialogue: 0,0:08:30.83,0:08:32.54,Flashback,,0000,0000,0000,,Eu vou acabar enforcado!
+Dialogue: 0,0:08:32.54,0:08:34.86,Flashback,,0000,0000,0000,,Eu vou fugir o máximo que puder!
+Dialogue: 0,0:08:34.86,0:08:38.14,Flashback,,0000,0000,0000,,Fugir de vocês, mãe e filho do diabo!
+Dialogue: 0,0:08:38.91,0:08:40.31,Flashback,,0000,0000,0000,,Reiner!
+Dialogue: 0,0:08:40.69,0:08:41.86,Flashback,,0000,0000,0000,,Reiner!
+Dialogue: 0,0:08:42.83,0:08:44.89,Flashback,,0000,0000,0000,,Eu vou ficar esperando!
+Dialogue: 0,0:08:45.23,0:08:46.66,Flashback Italics,,0000,0000,0000,,É mesmo...
+Dialogue: 0,0:08:46.66,0:08:51.90,Flashback Italics,,0000,0000,0000,,Mesmo sem pai, eu fui escolhido\Npara herdar o Titã Blindado.
+Dialogue: 0,0:08:52.40,0:08:56.60,Flashback Italics,,0000,0000,0000,,Eu vou salvar todos dessa ilha do\Ndiabo e me tornar um herói do mundo.
+Dialogue: 0,0:09:06.29,0:09:09.37,Flashback,,0000,0000,0000,,Realmente, não podemos\Navançar muito durante a noite.
+Dialogue: 0,0:09:09.37,0:09:11.16,Flashback,,0000,0000,0000,,Não pudemos fazer nada, ficou nublado.
+Dialogue: 0,0:09:11.94,0:09:14.57,Flashback,,0000,0000,0000,,Mesmo que destruamos a muralha,
+Dialogue: 0,0:09:14.57,0:09:18.17,Flashback,,0000,0000,0000,,o Rei dentro da Muralha não\Nusará o poder do Fundador?
+Dialogue: 0,0:09:18.17,0:09:20.17,Flashback,,0000,0000,0000,,Por que está falando isso agora?
+Dialogue: 0,0:09:20.17,0:09:22.17,Flashback,,0000,0000,0000,,Acredite na pesquisa de Marley!
+Dialogue: 0,0:09:22.17,0:09:23.89,Flashback,,0000,0000,0000,,Isso mesmo.
+Dialogue: 0,0:09:23.89,0:09:24.93,Flashback,,0000,0000,0000,,É um caminho sem volta.
+Dialogue: 0,0:09:25.86,0:09:29.06,Flashback,,0000,0000,0000,,Amanhã atravessaremos a muralha.
+Dialogue: 0,0:09:32.74,0:09:36.40,Flashback,,0000,0000,0000,,O que foi? Não me digam que estão\Nhesitando em matar os demônios da ilha?
+Dialogue: 0,0:09:36.83,0:09:38.69,Flashback,,0000,0000,0000,,Vocês esqueceram o que eles fizeram?
+Dialogue: 0,0:09:39.69,0:09:44.83,Flashback,,0000,0000,0000,,Nós somos os guerreiros escolhidos para\Njulgar os demônios, representando todos!
+Dialogue: 0,0:09:48.23,0:09:49.20,Flashback,,0000,0000,0000,,Me desculpe.
+Dialogue: 0,0:09:49.20,0:09:49.83,Flashback,,0000,0000,0000,,Hã?
+Dialogue: 0,0:09:50.26,0:09:51.69,Flashback,,0000,0000,0000,,Reiner, me desculpe.
+Dialogue: 0,0:09:52.23,0:09:55.83,Flashback,,0000,0000,0000,,Você não deveria ter sido\Nescolhido como um guerreiro.
+Dialogue: 0,0:09:56.54,0:10:00.57,Flashback,,0000,0000,0000,,Eu ressaltei suas qualidades e\Nsubestimei as do meu irmão.
+Dialogue: 0,0:10:00.57,0:10:02.57,Flashback,,0000,0000,0000,,Eu manipulei o exército.
+Dialogue: 0,0:10:04.97,0:10:08.49,Flashback,,0000,0000,0000,,Eu... queria proteger o meu irmão...
+Dialogue: 0,0:10:09.71,0:10:10.86,Flashback,,0000,0000,0000,,Me desculpe...
+Dialogue: 0,0:10:11.46,0:10:13.74,Flashback,,0000,0000,0000,,Reiner, me desculpe!
+Dialogue: 0,0:10:18.14,0:10:19.48,Flashback Italics,,0000,0000,0000,,Por quê?
+Dialogue: 0,0:10:21.23,0:10:22.71,Flashback Italics,,0000,0000,0000,,Por que está pedindo desculpas?
+Dialogue: 0,0:10:46.83,0:10:48.26,Flashback,,0000,0000,0000,,Bertholdt...
+Dialogue: 0,0:10:48.26,0:10:49.49,Flashback,,0000,0000,0000,,Annie...
+Dialogue: 0,0:10:49.49,0:10:51.09,Flashback,,0000,0000,0000,,Marcel...
+Dialogue: 0,0:10:52.14,0:10:53.66,Flashback,,0000,0000,0000,,Ele foi comido...
+Dialogue: 0,0:10:53.66,0:10:56.63,Flashback,,0000,0000,0000,,Ele foi comido por minha culpa...
+Dialogue: 0,0:10:56.63,0:10:57.91,Flashback,,0000,0000,0000,,Eu também serei comido...
+Dialogue: 0,0:10:59.06,0:11:01.20,Flashback,,0000,0000,0000,,Hoje, eu vou morrer aqui.
+Dialogue: 0,0:11:05.66,0:11:06.94,Flashback,,0000,0000,0000,,Conseguiu...
+Dialogue: 0,0:11:07.51,0:11:09.20,Flashback,,0000,0000,0000,,Você me derrotou...
+Dialogue: 0,0:11:09.20,0:11:10.97,Flashback,,0000,0000,0000,,Em uma corrida de longa distância...
+Dialogue: 0,0:11:10.97,0:11:12.49,Flashback,,0000,0000,0000,,Essa foi a primeira vez...
+Dialogue: 0,0:11:13.50,0:11:17.03,Flashback,,0000,0000,0000,,Se tivéssemos suprimido\Naquele Titã logo em seguida...
+Dialogue: 0,0:11:17.37,0:11:19.83,Flashback,,0000,0000,0000,,Não teríamos perdido o Titã da Mandíbula.
+Dialogue: 0,0:11:20.54,0:11:21.75,Flashback,,0000,0000,0000,,Merda!
+Dialogue: 0,0:11:21.75,0:11:24.26,Flashback,,0000,0000,0000,,O Marcel não vai mais voltar.
+Dialogue: 0,0:11:24.63,0:11:28.40,Flashback,,0000,0000,0000,,Mas falaram que se não nos aproximássemos\Ndas muralhas, não encontraríamos titãs!
+Dialogue: 0,0:11:28.40,0:11:29.89,Flashback,,0000,0000,0000,,Já chega, vamos voltar.
+Dialogue: 0,0:11:30.51,0:11:32.51,Flashback,,0000,0000,0000,,Vamos procurar o da Mandíbula e voltar.
+Dialogue: 0,0:11:32.80,0:11:35.37,Flashback,,0000,0000,0000,,Ele deve estar em algum lugar,\Nde volta a forma humana.
+Dialogue: 0,0:11:35.37,0:11:40.02,Flashback,,0000,0000,0000,,De qualquer forma, sem a liderança do\NMarcel, não poderemos completar a missão.
+Dialogue: 0,0:11:42.69,0:11:43.53,Flashback,,0000,0000,0000,,Esperem.
+Dialogue: 0,0:11:44.11,0:11:45.53,Flashback,,0000,0000,0000,,Não.
+Dialogue: 0,0:11:45.53,0:11:47.53,Flashback,,0000,0000,0000,,Não!
+Dialogue: 0,0:11:47.91,0:11:51.23,Flashback,,0000,0000,0000,,Não podemos voltar, precisamos\Nterminar a missão desse jeito.
+Dialogue: 0,0:11:52.57,0:11:53.97,Flashback,,0000,0000,0000,,Realmente...
+Dialogue: 0,0:11:53.97,0:11:58.69,Flashback,,0000,0000,0000,,Se voltar assim, vão arrancar o Blindado de\Nvocê e será comido pelo próximo guerreiro.
+Dialogue: 0,0:11:59.43,0:12:01.31,Flashback,,0000,0000,0000,,Não me interessa.
+Dialogue: 0,0:12:01.89,0:12:03.66,Flashback,,0000,0000,0000,,E acha que vai ser assim só comigo?
+Dialogue: 0,0:12:03.66,0:12:04.42,Flashback,,0000,0000,0000,,Hã?
+Dialogue: 0,0:12:04.42,0:12:08.00,Flashback,,0000,0000,0000,,Acha que vão colocar a responsabilidade\Npelos três fugirem só em mim?
+Dialogue: 0,0:12:08.00,0:12:11.72,Flashback,,0000,0000,0000,,Quer me dizer que você acredita que\Nnão farão uma limpeza com vocês dois?
+Dialogue: 0,0:12:12.66,0:12:14.80,Flashback,,0000,0000,0000,,Recuperar o da Mandíbula\Nnão é uma boa ideia.
+Dialogue: 0,0:12:14.80,0:12:17.66,Flashback,,0000,0000,0000,,Se ele fugir usando o poder\Ndo Titã da Mandíbula,
+Dialogue: 0,0:12:17.66,0:12:20.11,Flashback,,0000,0000,0000,,nossos titãs não conseguirão alcançá-lo.
+Dialogue: 0,0:12:20.40,0:12:23.09,Flashback,,0000,0000,0000,,Não tem como ele conseguir\Nusar o poder do titã tão rápido—
+Dialogue: 0,0:12:22.48,0:12:25.57,Flashback Top,,0000,0000,0000,,Você não conseguiu dominar os\Npoderes do Colossal na mesma hora?
+Dialogue: 0,0:12:26.11,0:12:29.94,Flashback,,0000,0000,0000,,De todo modo, desse jeito\Nnós estamos acabados!
+Dialogue: 0,0:12:29.94,0:12:33.37,Flashback,,0000,0000,0000,,Se não obtivermos o Fundador, não\Npoderemos voltar para nossa terra natal.
+Dialogue: 0,0:12:34.09,0:12:35.54,Flashback,,0000,0000,0000,,Por quê?
+Dialogue: 0,0:12:35.54,0:12:39.29,Flashback,,0000,0000,0000,,Se tivesse tido um centésimo dessa calma,
+Dialogue: 0,0:12:39.29,0:12:42.38,Flashback,,0000,0000,0000,,não teríamos perdido nem o\Nda Mandíbula, nem o Marcel.
+Dialogue: 0,0:12:42.38,0:12:47.43,Flashback,,0000,0000,0000,,Então você está nos assustando\Nsó para salvar sua pele? Hein?
+Dialogue: 0,0:12:48.86,0:12:50.91,Flashback,,0000,0000,0000,,Você vai explicar tudo para o Magath.
+Dialogue: 0,0:12:50.91,0:12:53.85,Flashback,,0000,0000,0000,,Diga que a culpa foi toda sua!
+Dialogue: 0,0:12:54.40,0:12:55.97,Flashback,,0000,0000,0000,,Marleyano honorário uma ova!
+Dialogue: 0,0:12:55.97,0:12:57.46,Flashback,,0000,0000,0000,,Guerreiro escolhido uma ova!
+Dialogue: 0,0:12:57.46,0:13:00.29,Flashback,,0000,0000,0000,,Marley e Eldia são todos mentirosos!
+Dialogue: 0,0:13:00.29,0:13:03.09,Flashback,,0000,0000,0000,,Eles só pensam em si mesmos!
+Dialogue: 0,0:13:03.09,0:13:03.94,Flashback,,0000,0000,0000,,Eu também!
+Dialogue: 0,0:13:03.94,0:13:06.40,Flashback,,0000,0000,0000,,Eu preciso voltar com vida!
+Dialogue: 0,0:13:06.40,0:13:08.36,Flashback,,0000,0000,0000,,Se você sente culpa, morra!
+Dialogue: 0,0:13:08.66,0:13:11.74,Flashback,,0000,0000,0000,,Assuma os seus pecados e morra!
+Dialogue: 0,0:13:24.67,0:13:26.92,Flashback,,0000,0000,0000,,Reiner morreu.
+Dialogue: 0,0:13:27.80,0:13:31.80,Flashback,,0000,0000,0000,,Se você precisa do\NMarcel, eu serei o Marcel.
+Dialogue: 0,0:13:33.43,0:13:35.30,Flashback,,0000,0000,0000,,Por favor, parem.
+Dialogue: 0,0:13:36.31,0:13:40.56,Flashback,,0000,0000,0000,,Essa é a única forma de podermos\Nvoltar para nossa terra natal.
+Dialogue: 0,0:13:40.56,0:13:45.69,Flashback,,0000,0000,0000,,Vamos todos... voltar...\Npara nossa terra natal...
+Dialogue: 0,0:14:10.42,0:14:11.31,Flashback Italics,,0000,0000,0000,,Hã?
+Dialogue: 0,0:14:12.17,0:14:15.00,Flashback Italics,,0000,0000,0000,,Eu queria me tornar um guerreiro.
+Dialogue: 0,0:14:15.54,0:14:20.37,Flashback Italics,,0000,0000,0000,,Eu achei que assim realizaria o sonho da minha mãe,\Ne poderíamos viver felizes junto do meu pai.
+Dialogue: 0,0:14:20.97,0:14:22.14,Flashback Italics,,0000,0000,0000,,Mas...
+Dialogue: 0,0:14:22.14,0:14:25.69,Flashback Italics,,0000,0000,0000,,Eu nunca tive um pai que\Npensava da mesma forma.
+Dialogue: 0,0:14:25.69,0:14:28.69,Flashback Italics,,0000,0000,0000,,Minha mãe continuava sonhando\Ncom algo que jamais se realizaria.
+Dialogue: 0,0:14:30.11,0:14:32.63,Flashback Italics,,0000,0000,0000,,Eu não deveria ter sido\Nescolhido como guerreiro.
+Dialogue: 0,0:14:32.63,0:14:34.32,Flashback Italics,,0000,0000,0000,,Eu devia ter morrido hoje.
+Dialogue: 0,0:14:36.06,0:14:38.06,Flashback Italics,,0000,0000,0000,,Por que ele pediu desculpas?
+Dialogue: 0,0:14:38.06,0:14:39.95,Flashback Italics,,0000,0000,0000,,Por que ele me salvou?
+Dialogue: 0,0:14:40.83,0:14:42.33,Flashback Italics,,0000,0000,0000,,Não...
+Dialogue: 0,0:14:42.33,0:14:44.33,Flashback Italics,,0000,0000,0000,,Eu não quero que isso termine aqui!
+Dialogue: 0,0:14:44.77,0:14:46.54,Flashback Italics,,0000,0000,0000,,Eu ainda...
+Dialogue: 0,0:14:46.54,0:14:48.54,Flashback Italics,,0000,0000,0000,,Não entendi nada!
+Dialogue: 0,0:14:55.00,0:14:56.03,Flashback,,0000,0000,0000,,Onde estamos?
+Dialogue: 0,0:14:56.46,0:14:57.84,Flashback,,0000,0000,0000,,Dentro da muralha Rose.
+Dialogue: 0,0:15:00.03,0:15:00.94,Flashback,,0000,0000,0000,,Annie...
+Dialogue: 0,0:15:01.11,0:15:03.09,Flashback,,0000,0000,0000,,Bertholdt...
+Dialogue: 0,0:15:03.57,0:15:04.85,Flashback,,0000,0000,0000,,Me desculpem.
+Dialogue: 0,0:15:05.46,0:15:09.63,Flashback,,0000,0000,0000,,Marcel, eu vou me tornar\Num verdadeiro guerreiro.
+Dialogue: 0,0:15:10.51,0:15:11.61,Flashback,,0000,0000,0000,,Vou perguntar!
+Dialogue: 0,0:15:11.61,0:15:14.26,Flashback,,0000,0000,0000,,O que vocês vieram fazer aqui?
+Dialogue: 0,0:15:15.03,0:15:16.99,Flashback,,0000,0000,0000,,Salvar a humanidade!
+Dialogue: 0,0:15:16.99,0:15:21.98,sign_17934_196_Bra__adeira_dos_,,0000,0000,0000,,{\pos(32,45)}Candidatos a Guerreiros \NUm batalhão de soldados jovens \Ncomposto de meninos e meninas \NEldianos, ou seja, "demônios". \NSob observação do exército de Marley,\N recebem um treinamento rigoroso, e \Nsão escolhidos com base na avaliação dos resultados desse treinamento, \Ncomportamento, técnica, \Npersonalidade e dedicação à pátria. \NPorque os nove titãs só são herdados \Npor Eldianos, ainda que sejam \N"demônios", os Eldianos encarregados\N da defesa nacional são necessários. \NPor isso, os Eldianos escolhidos como \Nguerreiros e seus parentes em \Nprimeiro grau podem receber a \Nqualificação de "Marleyanos honorários".
+Dialogue: 0,0:15:24.00,0:15:27.77,Flashback,,0000,0000,0000,,Meu vilarejo ficava nas montanhas\Nda Muralha Maria, à sudoeste.
+Dialogue: 0,0:15:27.77,0:15:29.49,Flashback,,0000,0000,0000,,Foi por volta do amanhecer.
+Dialogue: 0,0:15:29.97,0:15:31.89,Flashback,,0000,0000,0000,,O gado estava mais agitado que o normal.
+Dialogue: 0,0:15:31.89,0:15:34.94,Flashback,,0000,0000,0000,,Um barulho que eu não estava acostumado\Ncomeçou a ressoar cada vez mais forte.
+Dialogue: 0,0:15:35.23,0:15:39.20,Flashback,,0000,0000,0000,,Quando eu percebi que eram\Npegadas, corri para abrir as janelas.
+Dialogue: 0,0:15:40.66,0:15:43.97,Flashback,,0000,0000,0000,,Nem lembro o que aconteceu\Ndepois disso. Subi no cavalo e fugi.
+Dialogue: 0,0:15:44.37,0:15:45.27,Flashback,,0000,0000,0000,,Bem na hora...
+Dialogue: 0,0:15:45.83,0:15:49.27,Flashback,,0000,0000,0000,,Acabei deixando três filhos\Nda idade de vocês para trás.
+Dialogue: 0,0:15:59.78,0:16:01.63,Flashback,,0000,0000,0000,,E aí, mocinha.
+Dialogue: 0,0:16:01.63,0:16:03.17,Flashback,,0000,0000,0000,,Resolver vir atrás de um velho como eu?
+Dialogue: 0,0:16:03.17,0:16:05.79,Flashback,,0000,0000,0000,,Eu diria que você tem\Nbom gosto para homens.
+Dialogue: 0,0:16:06.60,0:16:08.79,Flashback,,0000,0000,0000,,Eu nasci numa pousada.
+Dialogue: 0,0:16:09.14,0:16:13.43,Flashback,,0000,0000,0000,,Eu fui criada ouvindo histórias sobre o\Nmeu pai, da minha mãe que trabalhava lá.
+Dialogue: 0,0:16:13.43,0:16:14.80,Flashback,,0000,0000,0000,,Foi olhar uma vez, que eu entendi.
+Dialogue: 0,0:16:14.80,0:16:16.80,Flashback,,0000,0000,0000,,Que emocionante.
+Dialogue: 0,0:16:16.80,0:16:19.80,Flashback,,0000,0000,0000,,Se quiser um abraço do papai,\Né só levantar os braços.
+Dialogue: 0,0:16:20.20,0:16:22.80,Flashback,,0000,0000,0000,,Tem certeza de que não é verdade?
+Dialogue: 0,0:16:22.80,0:16:24.94,Flashback,,0000,0000,0000,,Eu juro pela minha irmã.
+Dialogue: 0,0:16:24.94,0:16:28.06,Flashback,,0000,0000,0000,,Esse é o tipo de piada que eu mais odeio.
+Dialogue: 0,0:16:29.69,0:16:30.77,Flashback,,0000,0000,0000,,Que maldade...
+Dialogue: 0,0:16:30.77,0:16:32.09,Flashback,,0000,0000,0000,,Papai!
+Dialogue: 0,0:16:37.89,0:16:41.49,Flashback,,0000,0000,0000,,Ei, então chegou naquela\Nfase em que odeia o pai?
+Dialogue: 0,0:16:43.14,0:16:45.09,Flashback,,0000,0000,0000,,Hoje de novo, que incrível...
+Dialogue: 0,0:16:45.09,0:16:47.66,Flashback,,0000,0000,0000,,As pernas desse jeito\Nsignifica que hoje vai nevar?
+Dialogue: 0,0:16:47.66,0:16:50.58,Flashback,,0000,0000,0000,,Não, com a parte superior do\Ncorpo assim significa "céu limpo".
+Dialogue: 0,0:16:50.58,0:16:52.58,Flashback,,0000,0000,0000,,Então que tenha uma nevasca.
+Dialogue: 0,0:16:52.58,0:16:54.09,Flashback,,0000,0000,0000,,Vocês vão se atrasar para a chamada.
+Dialogue: 0,0:16:54.66,0:16:56.26,Flashback,,0000,0000,0000,,Acorda, Bertholdt!
+Dialogue: 0,0:16:57.09,0:17:00.83,Flashback,,0000,0000,0000,,Enquanto vocês dormiam, depois de\Ncansarem de brincar com os amiguinhos,
+Dialogue: 0,0:17:00.83,0:17:03.71,Flashback,,0000,0000,0000,,eu estava rastejando pelos\Nesgotos da capital real.
+Dialogue: 0,0:17:04.34,0:17:05.57,Flashback,,0000,0000,0000,,Ele estava lá.
+Dialogue: 0,0:17:05.89,0:17:06.85,Flashback,,0000,0000,0000,,Eu estou no meu limite...
+Dialogue: 0,0:17:07.86,0:17:09.35,Flashback,,0000,0000,0000,,No limite?
+Dialogue: 0,0:17:09.94,0:17:12.74,Flashback,,0000,0000,0000,,Vamos voltar para Marley com as\Ninformações que conseguimos.
+Dialogue: 0,0:17:13.09,0:17:15.80,Flashback,,0000,0000,0000,,Qualquer informação será bem recebida.
+Dialogue: 0,0:17:15.80,0:17:17.80,Flashback,,0000,0000,0000,,Você realmente acredita nisso?
+Dialogue: 0,0:17:18.51,0:17:22.31,Flashback,,0000,0000,0000,,Se voltarmos com o resultado desses\N5 anos, Marley ficará desapontado.
+Dialogue: 0,0:17:22.31,0:17:24.74,Flashback,,0000,0000,0000,,E então? O que quer \Nque eu faça?
+Dialogue: 0,0:17:25.11,0:17:27.31,Flashback,,0000,0000,0000,,Vamos destruir a Muralha Rose.
+Dialogue: 0,0:17:27.31,0:17:30.89,Flashback,,0000,0000,0000,,Não há outro método de\Nfazer o Fundador aparecer.
+Dialogue: 0,0:17:31.57,0:17:34.11,Flashback,,0000,0000,0000,,Muitos dos seus amigos vão morrer.
+Dialogue: 0,0:17:35.34,0:17:37.11,Flashback,,0000,0000,0000,,Quantas vezes preciso dizer?
+Dialogue: 0,0:17:37.11,0:17:39.59,Flashback,,0000,0000,0000,,Eles não são amigos. São demônios.
+Dialogue: 0,0:17:40.11,0:17:42.23,Flashback,,0000,0000,0000,,Mas não tem problema\Nganharmos a confiança deles.
+Dialogue: 0,0:17:42.23,0:17:45.40,Flashback,,0000,0000,0000,,Pelo contrário, essa sua atitude de\Nse isolar, deixa muito mais claro...
+Dialogue: 0,0:17:45.10,0:17:46.34,Flashback Top,,0000,0000,0000,,Quero vomitar.
+Dialogue: 0,0:17:46.66,0:17:49.03,Flashback,,0000,0000,0000,,Não aproxime mais o seu rosto assim.
+Dialogue: 0,0:17:51.03,0:17:51.98,Flashback,,0000,0000,0000,,Deve estar cansada.
+Dialogue: 0,0:17:52.86,0:17:55.89,Flashback,,0000,0000,0000,,Me desculpe por sempre\Ncolocar esse ônus em você.
+Dialogue: 0,0:17:55.89,0:17:57.89,Flashback,,0000,0000,0000,,Vamos terminar por aqui hoje.
+Dialogue: 0,0:18:03.80,0:18:06.51,Flashback,,0000,0000,0000,,Eu continuo tendo o mesmo sonho...
+Dialogue: 0,0:18:07.26,0:18:09.77,Flashback,,0000,0000,0000,,Com o homem que se enforcou\Nnaquele assentamento.
+Dialogue: 0,0:18:11.03,0:18:16.75,Flashback,,0000,0000,0000,,Por que antes de se enforcar,\Nele contou aquela história para nós?
+Dialogue: 0,0:18:24.57,0:18:25.43,Flashback,,0000,0000,0000,,Eren.
+Dialogue: 0,0:18:25.43,0:18:28.03,Flashback,,0000,0000,0000,,Descanse um pouco,\Nvai acabar morrendo assim.
+Dialogue: 0,0:18:28.03,0:18:29.47,Flashback,,0000,0000,0000,,Merda!
+Dialogue: 0,0:18:30.14,0:18:32.73,Flashback,,0000,0000,0000,,Reiner... Como você ficou assim?
+Dialogue: 0,0:18:33.17,0:18:36.37,Flashback,,0000,0000,0000,,Como eu faço para ser\Ncomo você ou a Mikasa?
+Dialogue: 0,0:18:37.63,0:18:41.73,Flashback,,0000,0000,0000,,Desse jeito, eu também vou acabar\Nmorrendo se não conseguir fazer nada.
+Dialogue: 0,0:18:47.71,0:18:49.70,Flashback,,0000,0000,0000,,Apenas faça o que tem que fazer.
+Dialogue: 0,0:18:50.70,0:18:52.83,Flashback,,0000,0000,0000,,Apenas continue avançando.
+Dialogue: 0,0:18:54.29,0:18:55.71,Flashback,,0000,0000,0000,,É a única coisa que podemos fazer.
+Dialogue: 0,0:18:57.14,0:18:58.46,Flashback,,0000,0000,0000,,Isso mesmo.
+Dialogue: 0,0:19:00.71,0:19:03.72,Flashback,,0000,0000,0000,,Vamos afastar todos os titãs,\Naté que não sobre nenhum.
+Dialogue: 0,0:19:04.26,0:19:06.22,Flashback,,0000,0000,0000,,Você consegue fazer isso.
+Dialogue: 0,0:19:21.44,0:19:22.94,Default,,0000,0000,0000,,Merda!
+Dialogue: 0,0:19:22.94,0:19:25.45,Default,,0000,0000,0000,,Assim não vai dar!
+Dialogue: 0,0:19:33.45,0:19:34.79,Default,,0000,0000,0000,,Isso mesmo...
+Dialogue: 0,0:19:34.79,0:19:38.46,Default,,0000,0000,0000,,Eu ainda... tenho eles...
+Dialogue: 0,0:19:46.22,0:19:47.43,Default,,0000,0000,0000,,O Hospital?
+Dialogue: 0,0:19:48.34,0:19:49.31,Default,,0000,0000,0000,,Ei!
+Dialogue: 0,0:19:55.03,0:19:57.77,Default,,0000,0000,0000,,B-Bem, parece que você melhorou.
+Dialogue: 0,0:19:58.20,0:20:00.09,Default,,0000,0000,0000,,Ao menos consegue falar.
+Dialogue: 0,0:20:00.09,0:20:01.34,Default,,0000,0000,0000,,Bem, é...
+Dialogue: 0,0:20:01.97,0:20:04.61,Default,,0000,0000,0000,,Eu estou aqui para tratar\Ndanos psicológicos,
+Dialogue: 0,0:20:04.61,0:20:06.20,Default,,0000,0000,0000,,mas os meus são mentira.
+Dialogue: 0,0:20:06.20,0:20:06.86,Default,,0000,0000,0000,,Hã?
+Dialogue: 0,0:20:06.86,0:20:10.23,Default,,0000,0000,0000,,Eu disse que não posso voltar para\Ncasa porque perdi a memória.
+Dialogue: 0,0:20:10.23,0:20:12.91,Default,,0000,0000,0000,,Mas na verdade eu só não quero voltar.
+Dialogue: 0,0:20:12.91,0:20:16.91,Default,,0000,0000,0000,,É duro demais encarar\Nminha família novamente.
+Dialogue: 0,0:20:17.34,0:20:18.83,Default,,0000,0000,0000,,Vai contar para o pessoal do hospital.
+Dialogue: 0,0:20:19.31,0:20:21.14,Default,,0000,0000,0000,,Eu não vou fazer isso.
+Dialogue: 0,0:20:22.51,0:20:23.66,Default,,0000,0000,0000,,Você está ferido.
+Dialogue: 0,0:20:24.09,0:20:26.03,Default,,0000,0000,0000,,É do treinamento para\Nse tornar um guerreiro?
+Dialogue: 0,0:20:26.49,0:20:27.46,Default,,0000,0000,0000,,Sim.
+Dialogue: 0,0:20:27.46,0:20:29.66,Default,,0000,0000,0000,,Mas eu não consigo me tornar um.
+Dialogue: 0,0:20:30.20,0:20:32.71,Default,,0000,0000,0000,,Tem uma candidata melhor que eu.
+Dialogue: 0,0:20:33.09,0:20:34.83,Default,,0000,0000,0000,,Acho que não vou ter a minha vez.
+Dialogue: 0,0:20:35.57,0:20:36.83,Default,,0000,0000,0000,,Que bom.
+Dialogue: 0,0:20:37.20,0:20:38.03,Default,,0000,0000,0000,,Hã?
+Dialogue: 0,0:20:38.03,0:20:39.86,Default,,0000,0000,0000,,Você é uma boa pessoa.
+Dialogue: 0,0:20:39.86,0:20:42.56,Default,,0000,0000,0000,,Eu ficaria feliz se vivesse bastante.
+Dialogue: 0,0:20:44.56,0:20:47.57,Default,,0000,0000,0000,,Mas eu não quero deixar que\Nela se torne uma guerreira.
+Dialogue: 0,0:20:48.00,0:20:48.89,Default,,0000,0000,0000,,Por quê?
+Dialogue: 0,0:20:51.37,0:20:54.17,Default,,0000,0000,0000,,Essa candidata, é uma menina?
+Dialogue: 0,0:20:54.74,0:20:57.11,Default,,0000,0000,0000,,Ela é bem famosa aqui.
+Dialogue: 0,0:20:57.46,0:21:00.54,Default,,0000,0000,0000,,Ela chegou até a atuar na guerra.
+Dialogue: 0,0:21:00.89,0:21:04.31,Default,,0000,0000,0000,,Todo mundo deve estar dizendo\Nque ela deve herdar o Blindado.
+Dialogue: 0,0:21:05.00,0:21:07.77,Default,,0000,0000,0000,,Mas eu não tenho força.
+Dialogue: 0,0:21:07.77,0:21:10.51,Default,,0000,0000,0000,,Eu vou terminar sem conseguir fazer nada.
+Dialogue: 0,0:21:14.23,0:21:16.26,Default,,0000,0000,0000,,Eu penso todos os dias\Ndesde que vim para cá.
+Dialogue: 0,0:21:17.11,0:21:19.81,Default,,0000,0000,0000,,Por que as coisas ficaram assim?
+Dialogue: 0,0:21:20.60,0:21:22.56,Default,,0000,0000,0000,,Corroeram nosso corpo e mente.
+Dialogue: 0,0:21:22.89,0:21:25.06,Default,,0000,0000,0000,,Roubaram completamente\Nnossa liberdade.
+Dialogue: 0,0:21:25.06,0:21:27.32,Default,,0000,0000,0000,,Nós chegamos até a nos\Nperder de nós mesmos.
+Dialogue: 0,0:21:28.00,0:21:32.54,Default,,0000,0000,0000,,Ninguém iria para a guerra se\Nsoubesse que ficaria assim.
+Dialogue: 0,0:21:33.45,0:21:36.89,Default,,0000,0000,0000,,Mas tinha algo nos empurrando.
+Dialogue: 0,0:21:36.89,0:21:38.89,Default,,0000,0000,0000,,Nos empurrando direto para o inferno.
+Dialogue: 0,0:21:39.80,0:21:42.54,Default,,0000,0000,0000,,Para a maioria, isso não\Né sua própria vontade.
+Dialogue: 0,0:21:42.54,0:21:46.09,Default,,0000,0000,0000,,Somos forçados pelos\Noutros ou pelo ambiente.
+Dialogue: 0,0:21:47.37,0:21:48.09,Default,,0000,0000,0000,,No entanto...
+Dialogue: 0,0:21:48.09,0:21:52.51,Default,,0000,0000,0000,,O que as pessoas que se empurram\Npara o inferno veem é diferente.
+Dialogue: 0,0:21:53.29,0:21:56.40,Default,,0000,0000,0000,,Eles veem alguma coisa\Nalém desse inferno.
+Dialogue: 0,0:21:56.89,0:21:59.03,Default,,0000,0000,0000,,Pode ser que seja esperança.
+Dialogue: 0,0:21:59.03,0:22:01.03,Default,,0000,0000,0000,,Ou pode ser que seja ainda outro inferno.
+Dialogue: 0,0:22:02.43,0:22:06.98,Default,,0000,0000,0000,,Isso é uma coisa, que só aqueles\Nque continuaram avançando sabem.
+Dialogue: 0,0:23:39.98,0:23:42.98,EpTitle,,0000,0000,0000,,Próximo Episódio
+Dialogue: 0,0:23:40.49,0:23:46.17,Italics,,0000,0000,0000,,Aliado com a família Tybur, Magath organizou\Num esquadrão para transmitir a verdade.
+Dialogue: 0,0:23:46.17,0:23:48.94,Italics,,0000,0000,0000,,Enquanto a cidade ferve\Ncom o barulho do festival,
+Dialogue: 0,0:23:48.94,0:23:52.60,Italics,,0000,0000,0000,,chega o momento inesquecível\Nque Reiner esperava.
+Dialogue: 0,0:23:52.60,0:23:54.60,Italics,,0000,0000,0000,,No próximo episódio:\N"De uma mão à outra".
+Dialogue: 0,0:23:52.99,0:23:54.99,EpTitle,,0000,0000,0000,,De uma mão à outra

@@ -1,0 +1,347 @@
+﻿[Script Info]
+Title: [Erai-raws] Español (América Latina)
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Nota,Trebuchet MS,20,&H00C2C2C2,&H000000FF,&H00262626,&H00505050,-1,0,0,0,100,100,0,0,1,0,0,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0021,0021,0020,1
+Style: Cart_B_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0021,0021,0020,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0021,0021,0020,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00303030,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0021,0021,0020,1
+Style: Cart_B_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0021,0021,0020,1
+Style: Cart_C_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0021,0021,0020,1
+Style: Edit_Margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0063110A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0010,1
+Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0021,0021,0020,1
+Style: Cart_TitleSeries,Trebuchet MS,30,&H00000000,&H000000FF,&H00FFFFFF,&H00AC4F8A,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0031,0010,1
+Style: Cart_EpiTitle,Arial,22,&H00FFFFFF,&H000000FF,&H327D0CB6,&H002971C2,-1,0,0,0,100,100,0,0,1,3,0,5,0041,0062,0110,1
+Style: Cart_TitleEp,Times New Roman,22,&H00FFFFFF,&H000000FF,&H00313131,&H00313131,0,0,0,0,100,100,0,0,1,0,0,8,0020,0020,0020,1
+Style: Cart_TitleSerie,Arial,18,&H00612CD4,&H000000FF,&H00FFFFFF,&H00753228,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0070,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.40,0:00:03.42,Gen_Main,,0000,0000,0000,,Nos abandonaron.
+Dialogue: 0,0:00:04.41,0:00:07.62,Gen_Main,,0000,0000,0000,,Por eso vivimos\Nen este campo entre muros.
+Dialogue: 0,0:00:08.74,0:00:11.71,Gen_Main,,0000,0000,0000,,Porque tenemos la sangre del demonio.
+Dialogue: 0,0:00:12.72,0:00:15.24,Gen_Main,,0000,0000,0000,,Por eso no tienes padre.
+Dialogue: 0,0:00:17.88,0:00:20.84,Gen_Main,,0000,0000,0000,,Como él es marleyense…
+Dialogue: 0,0:00:22.35,0:00:24.84,Gen_Main,,0000,0000,0000,,no puede estar con unos eldianos.
+Dialogue: 0,0:00:26.97,0:00:28.86,Gen_Main,,0000,0000,0000,,Si fuéramos marleyenses…
+Dialogue: 0,0:00:36.68,0:00:39.86,Gen_Main,,0000,0000,0000,,Es verdad. En aquel entonces…
+Dialogue: 0,0:00:41.15,0:00:44.24,Gen_Main,,0000,0000,0000,,quería ser guerrero\Npara volverme marleyense.
+Dialogue: 0,0:00:50.08,0:00:55.12,Gen_Main,,0000,0000,0000,,¿Quién dijo que caminaran?\N¡Corran, hijos de esa sucia cerda!
+Dialogue: 0,0:00:55.37,0:00:57.75,Gen_Main,,0000,0000,0000,,¿No quieren ser honorables marleyenses?
+Dialogue: 0,0:01:01.84,0:01:03.11,Gen_Main,,0000,0000,0000,,¿Saben qué?
+Dialogue: 0,0:01:03.41,0:01:06.88,Gen_Main,,0000,0000,0000,,Dentro de unos años\Natacarán Isla Paradís.
+Dialogue: 0,0:01:08.29,0:01:11.24,Gen_Main,,0000,0000,0000,,Llegó la hora\Nde que heredemos a los titanes.
+Dialogue: 0,0:01:11.82,0:01:15.15,Gen_Main,,0000,0000,0000,,Seis de nosotros siete.
+Dialogue: 0,0:01:15.56,0:01:18.97,Gen_Main,,0000,0000,0000,,Genial. Por fin seré marleyense.
+Dialogue: 0,0:01:19.15,0:01:21.28,Gen_Main,,0000,0000,0000,,¿Qué? No te alegres mucho.
+Dialogue: 0,0:01:21.44,0:01:23.66,Gen_Main,,0000,0000,0000,,Si sobra uno, serás tú, el peor.
+Dialogue: 0,0:01:23.82,0:01:24.82,Gen_Main,,0000,0000,0000,,¿Cómo dices?
+Dialogue: 0,0:01:25.40,0:01:27.35,Gen_Main,,0000,0000,0000,,¿Cuál es tu mayor virtud?
+Dialogue: 0,0:01:28.24,0:01:30.44,Gen_Main,,0000,0000,0000,,¿Eres resistente? ¿Inteligente?
+Dialogue: 0,0:01:30.62,0:01:33.45,Gen_Main,,0000,0000,0000,,¿Tienes puntería?\N¿Dominas el cuerpo a cuerpo?
+Dialogue: 0,0:01:33.63,0:01:34.64,Gen_Main,,0000,0000,0000,,No.
+Dialogue: 0,0:01:34.79,0:01:38.96,Gen_Main,,0000,0000,0000,,Lo único que te valoraron\Nfue la lealtad a Marley.
+Dialogue: 0,0:01:39.58,0:01:43.64,Gen_Main,,0000,0000,0000,,Dijiste que exterminarías\Na todos los demonios de la isla.
+Dialogue: 0,0:01:44.42,0:01:46.60,Gen_Main,,0000,0000,0000,,¿Te estás burlando de nuestra misión?
+Dialogue: 0,0:01:46.76,0:01:49.82,Gen_Main,,0000,0000,0000,,¿O eres de los que quiere\Nel retorno de Eldia?
+Dialogue: 0,0:01:51.05,0:01:52.95,Gen_Main,,0000,0000,0000,,¡Tiene que ser eso!
+Dialogue: 0,0:01:53.10,0:01:54.97,Gen_Main,,0000,0000,0000,,¡Informaré al capitán!
+Dialogue: 0,0:01:55.33,0:01:57.82,Gen_Main,,0000,0000,0000,,¡No digas tonterías, idiota!
+Dialogue: 0,0:01:58.77,0:01:59.84,Gen_Main,,0000,0000,0000,,Desgraciado…
+Dialogue: 0,0:02:00.02,0:02:01.02,Gen_Main,,0000,0000,0000,,¡Para, Porco!
+Dialogue: 0,0:02:01.26,0:02:03.95,Gen_Main,,0000,0000,0000,,Cualquiera puede odiar a los de isla.
+Dialogue: 0,0:02:04.53,0:02:07.40,Gen_Main,,0000,0000,0000,,¡Tú esperarás 13 años solo!
+Dialogue: 0,0:02:09.91,0:02:10.93,Gen_Main,,0000,0000,0000,,¡Porco!
+Dialogue: 0,0:02:11.32,0:02:14.12,Gen_Main,,0000,0000,0000,,Vamos, Pieck.\NSíguenos cuando dejes de llorar.
+Dialogue: 0,0:02:14.91,0:02:17.35,Gen_Main,,0000,0000,0000,,Si llegas tarde,\Nel capitán me gritará a mí.
+Dialogue: 0,0:02:18.45,0:02:21.04,Gen_Main,,0000,0000,0000,,Lo siento, Reiner.
+Dialogue: 0,0:02:24.38,0:02:25.88,Gen_Main,,0000,0000,0000,,Levántate, Reiner.
+Dialogue: 0,0:02:27.01,0:02:28.01,Gen_Main,,0000,0000,0000,,Vamos.
+Dialogue: 0,0:02:29.26,0:02:34.06,Gen_Main,,0000,0000,0000,,Me haré marleyense\Ny viviré con mis padres.
+Dialogue: 0,0:02:34.22,0:02:36.00,Gen_Main,,0000,0000,0000,,No puedo esperar 13 años.
+Dialogue: 0,0:02:36.40,0:02:40.00,Gen_Main,,0000,0000,0000,,Pero tiene razón. Soy el peor de todos.
+Dialogue: 0,0:02:40.73,0:02:42.84,Gen_Main,,0000,0000,0000,,Porco no decide quién hereda qué.
+Dialogue: 0,0:02:43.02,0:02:46.06,Gen_Main,,0000,0000,0000,,Además, la lealtad es importante.
+Dialogue: 0,0:02:46.28,0:02:47.40,Gen_Main,,0000,0000,0000,,¿Verdad, Annie?
+Dialogue: 0,0:02:48.67,0:02:51.24,Gen_Main,,0000,0000,0000,,¿Qué? No estaba escuchando.
+Dialogue: 0,0:02:59.87,0:03:02.68,Gen_Main,,0000,0000,0000,,¿Estás seguro de lo que quieres?
+Dialogue: 0,0:03:03.63,0:03:05.95,Gen_Main,,0000,0000,0000,,Solo tendrás 13 años.
+Dialogue: 0,0:03:07.46,0:03:09.34,Gen_Main,,0000,0000,0000,,Me convertiré en un héroe.
+Dialogue: 0,0:03:11.80,0:03:15.57,Gen_Main,,0000,0000,0000,,Si elimino a los demonios de la isla,\Nsalvaré el mundo.
+Dialogue: 0,0:03:16.01,0:03:19.73,Gen_Main,,0000,0000,0000,,Y entonces podrán estar\Norgullosos de su hijo.
+Dialogue: 0,0:03:25.17,0:03:27.62,Gen_Main,,0000,0000,0000,,Ojalá pase algo interesante.
+Dialogue: 0,0:03:27.88,0:03:29.99,Gen_Main,,0000,0000,0000,,¡Aquí estás, Eren!
+Dialogue: 0,0:05:00.02,0:05:05.04,Cart_TitleEp,,0000,0000,0000,,{\pos(320,135)}La puerta de la esperanza
+Dialogue: 0,0:05:05.83,0:05:09.60,Gen_Main,,0000,0000,0000,,Magnífico. Es mejor de lo que esperaba.
+Dialogue: 0,0:05:14.88,0:05:16.40,Gen_Main,,0000,0000,0000,,La titán hembra.
+Dialogue: 0,0:05:16.74,0:05:19.64,Gen_Main,,0000,0000,0000,,Su punto fuerte es su adaptabilidad.
+Dialogue: 0,0:05:20.00,0:05:22.55,Gen_Main,,0000,0000,0000,,Es ágil y resistente,
+Dialogue: 0,0:05:22.81,0:05:26.95,Gen_Main,,0000,0000,0000,,y sus golpes con partes endurecidas\Nson muy destructivos.
+Dialogue: 0,0:05:27.52,0:05:31.55,Gen_Main,,0000,0000,0000,,Además, puede atraer a titanes puros\Na corta distancia.
+Dialogue: 0,0:05:32.19,0:05:34.02,Gen_Main,,0000,0000,0000,,Leonhart es la adecuada.
+Dialogue: 0,0:05:35.90,0:05:39.00,Gen_Main,,0000,0000,0000,,El titán acorazado se especializa\Nen endurecer la piel.
+Dialogue: 0,0:05:39.39,0:05:43.75,Gen_Main,,0000,0000,0000,,Un placaje suyo podría\Ndestruir las puertas de la muralla.
+Dialogue: 0,0:05:44.41,0:05:47.66,Gen_Main,,0000,0000,0000,,Será el escudo de Marley.
+Dialogue: 0,0:05:48.25,0:05:50.40,Gen_Main,,0000,0000,0000,,Le irá bien la paciencia de Braun.
+Dialogue: 0,0:05:52.21,0:05:54.46,Gen_Main,,0000,0000,0000,,El titán mandíbula es de asalto.
+Dialogue: 0,0:05:55.71,0:05:57.93,Gen_Main,,0000,0000,0000,,Es pequeño y ágil,
+Dialogue: 0,0:05:58.09,0:06:01.62,Gen_Main,,0000,0000,0000,,pero puede destruir de todo\Ncon sus garras y su mandíbula.
+Dialogue: 0,0:06:02.35,0:06:04.28,Gen_Main,,0000,0000,0000,,Marcel sabe improvisar bien.
+Dialogue: 0,0:06:05.77,0:06:08.37,Gen_Main,,0000,0000,0000,,El titán bestia sigue igual que siempre.
+Dialogue: 0,0:06:08.81,0:06:11.93,Gen_Main,,0000,0000,0000,,Simplemente es algo más grande\Nque la mayoría,
+Dialogue: 0,0:06:12.20,0:06:15.80,Gen_Main,,0000,0000,0000,,pero sus lanzamientos\Nson armas aterradoras.
+Dialogue: 0,0:06:16.40,0:06:20.32,Gen_Main,,0000,0000,0000,,Además, su sangre esconde un secreto.
+Dialogue: 0,0:06:22.57,0:06:25.33,Gen_Main,,0000,0000,0000,,El titán carguero tiene\Nun aguante increíble.
+Dialogue: 0,0:06:25.63,0:06:27.45,Gen_Main,,0000,0000,0000,,Es perfecto para misiones largas.
+Dialogue: 0,0:06:28.58,0:06:33.28,Gen_Main,,0000,0000,0000,,Puede portar armas, expandiendo\Nlas opciones de una operación.
+Dialogue: 0,0:06:34.17,0:06:36.86,Gen_Main,,0000,0000,0000,,Perfecto para Pieck\Ny su capacidad de decisión.
+Dialogue: 0,0:06:38.05,0:06:40.93,Gen_Main,,0000,0000,0000,,Por último, el titán colosal.
+Dialogue: 0,0:06:50.86,0:06:52.62,Gen_Main,,0000,0000,0000,,Es un dios de la destrucción.
+Dialogue: 0,0:06:54.42,0:06:56.77,Gen_Main,,0000,0000,0000,,Hoover sabrá utilizarlo.
+Dialogue: 0,0:06:57.40,0:07:00.00,Gen_Main,,0000,0000,0000,,Compadezco a los demonios de la isla.
+Dialogue: 0,0:07:00.53,0:07:03.53,Gen_Main,,0000,0000,0000,,Un día aparecerá de repente\Npara matarlos.
+Dialogue: 0,0:07:04.49,0:07:08.20,Gen_Main,,0000,0000,0000,,Los nuevos guerreros son más hábiles\Nque los anteriores.
+Dialogue: 0,0:07:08.45,0:07:11.33,Gen_Main,,0000,0000,0000,,Pero no me convence\Nla decisión del ejército.
+Dialogue: 0,0:07:11.62,0:07:16.51,Gen_Main,,0000,0000,0000,,Es una locura enviar a niños\Na recuperar al titán fundador.
+Dialogue: 0,0:07:16.72,0:07:17.82,Gen_Main,,0000,0000,0000,,¿Tú crees?
+Dialogue: 0,0:07:17.96,0:07:22.93,Gen_Main,,0000,0000,0000,,Esos niños acaban\Nde aplastar a un reino.
+Dialogue: 0,0:07:23.47,0:07:24.76,Gen_Main,,0000,0000,0000,,¡No es normal!
+Dialogue: 0,0:07:25.02,0:07:27.17,Gen_Main,,0000,0000,0000,,¿Por qué eligieron al peor?
+Dialogue: 0,0:07:27.39,0:07:28.77,Gen_Main,,0000,0000,0000,,¿Qué trucos usaste?
+Dialogue: 0,0:07:29.70,0:07:31.35,Gen_Main,,0000,0000,0000,,Es que el peor eras tú.
+Dialogue: 0,0:07:31.52,0:07:33.86,Gen_Main,,0000,0000,0000,,Eso es todo, Porco.
+Dialogue: 0,0:07:34.97,0:07:36.24,Gen_Main,,0000,0000,0000,,Serás…
+Dialogue: 0,0:07:36.73,0:07:40.13,Gen_Main,,0000,0000,0000,,¿Cuestionarás la decisión del ejército?
+Dialogue: 0,0:07:46.27,0:07:49.04,Gen_Main,,0000,0000,0000,,Lo siento, Reiner.
+Dialogue: 0,0:08:03.46,0:08:04.68,Gen_Main,,0000,0000,0000,,¡Papá!
+Dialogue: 0,0:08:05.08,0:08:06.20,Gen_Main,,0000,0000,0000,,Eres tú, ¿verdad?
+Dialogue: 0,0:08:06.46,0:08:10.04,Gen_Main,,0000,0000,0000,,Mamá trabajaba en este cuartel\Nantes de que yo naciera.
+Dialogue: 0,0:08:10.39,0:08:13.56,Gen_Main,,0000,0000,0000,,Fue entonces cuando conociste\Na Karina Braun, ¿no?
+Dialogue: 0,0:08:13.84,0:08:15.04,Gen_Main,,0000,0000,0000,,Mírame.
+Dialogue: 0,0:08:15.19,0:08:17.88,Gen_Main,,0000,0000,0000,,Ahora somos honorables marleyenses.
+Dialogue: 0,0:08:18.02,0:08:20.07,Gen_Main,,0000,0000,0000,,-Podremos vivir jun…\N-¡Cállate!
+Dialogue: 0,0:08:20.44,0:08:23.86,Gen_Main,,0000,0000,0000,,Te lo pidió ella, ¿no?\N¡Para vengarse de mí!
+Dialogue: 0,0:08:24.03,0:08:25.13,Gen_Main,,0000,0000,0000,,¡Maldita sea!
+Dialogue: 0,0:08:25.28,0:08:27.17,Gen_Main,,0000,0000,0000,,Convertir al mocoso en guerrero…
+Dialogue: 0,0:08:27.32,0:08:30.12,Gen_Main,,0000,0000,0000,,¡Si investigan tu linaje,\Nmi familia está perdida!
+Dialogue: 0,0:08:30.83,0:08:32.64,Gen_Main,,0000,0000,0000,,Quieren acabar conmigo, ¿no?
+Dialogue: 0,0:08:32.79,0:08:38.17,Gen_Main,,0000,0000,0000,,Pero ¡huiré de ustedes,\Ndemonios de Eldia!
+Dialogue: 0,0:08:38.71,0:08:39.75,Gen_Main,,0000,0000,0000,,Reiner.
+Dialogue: 0,0:08:40.70,0:08:42.02,Gen_Main,,0000,0000,0000,,¡Reiner!
+Dialogue: 0,0:08:42.82,0:08:44.88,Gen_Main,,0000,0000,0000,,¡Te estaré esperando!
+Dialogue: 0,0:08:45.29,0:08:46.60,Gen_Italics,,0000,0000,0000,,Es verdad.
+Dialogue: 0,0:08:46.97,0:08:48.42,Gen_Italics,,0000,0000,0000,,No necesito un padre.
+Dialogue: 0,0:08:48.69,0:08:51.89,Gen_Italics,,0000,0000,0000,,Soy el guerrero elegido\Ncomo titán acorazado.
+Dialogue: 0,0:08:52.50,0:08:56.71,Gen_Italics,,0000,0000,0000,,Seré el héroe que salvará el mundo\Nde los demonios de la isla.
+Dialogue: 0,0:09:06.28,0:09:08.86,Gen_Main,,0000,0000,0000,,No pudimos avanzar mucho de noche.
+Dialogue: 0,0:09:09.41,0:09:11.16,Gen_Main,,0000,0000,0000,,Con estas nubes era inevitable.
+Dialogue: 0,0:09:12.09,0:09:14.42,Gen_Main,,0000,0000,0000,,¿Seguro que su rey
+Dialogue: 0,0:09:14.81,0:09:18.17,Gen_Main,,0000,0000,0000,,no usará al titán fundador\Nsi destruimos la muralla?
+Dialogue: 0,0:09:18.62,0:09:22.20,Gen_Main,,0000,0000,0000,,¿Qué dices?\N¡Confía en la investigación de Marley!
+Dialogue: 0,0:09:22.52,0:09:24.92,Gen_Main,,0000,0000,0000,,Sí. No hay vuelta atrás.
+Dialogue: 0,0:09:25.92,0:09:28.75,Gen_Main,,0000,0000,0000,,Mañana destruiremos la muralla.
+Dialogue: 0,0:09:32.76,0:09:36.68,Gen_Main,,0000,0000,0000,,¿Acaso los asusta\Nmatar a los demonios de la isla?
+Dialogue: 0,0:09:36.97,0:09:38.69,Gen_Main,,0000,0000,0000,,¿Olvidaron lo que hicieron?
+Dialogue: 0,0:09:39.86,0:09:44.88,Gen_Main,,0000,0000,0000,,Somos guerreros elegidos\Npara juzgar a esos demonios.
+Dialogue: 0,0:09:48.08,0:09:49.28,Gen_Main,,0000,0000,0000,,Lo siento.
+Dialogue: 0,0:09:50.27,0:09:51.60,Gen_Main,,0000,0000,0000,,Lo siento, Reiner.
+Dialogue: 0,0:09:52.28,0:09:55.83,Gen_Main,,0000,0000,0000,,En realidad no iban\Na elegirte como guerrero.
+Dialogue: 0,0:09:56.56,0:10:00.68,Gen_Main,,0000,0000,0000,,Pero te alabé y critiqué a mi hermano.
+Dialogue: 0,0:10:00.98,0:10:02.59,Gen_Main,,0000,0000,0000,,Manipulé a los del ejército.
+Dialogue: 0,0:10:05.26,0:10:08.53,Gen_Main,,0000,0000,0000,,Quería proteger a mi hermano.
+Dialogue: 0,0:10:09.76,0:10:10.84,Gen_Main,,0000,0000,0000,,Lo siento.
+Dialogue: 0,0:10:11.48,0:10:13.47,Gen_Main,,0000,0000,0000,,Lo siento, Reiner.
+Dialogue: 0,0:10:18.42,0:10:19.48,Gen_Italics,,0000,0000,0000,,¿Por qué…
+Dialogue: 0,0:10:21.41,0:10:22.66,Gen_Italics,,0000,0000,0000,,te disculpas?
+Dialogue: 0,0:10:47.09,0:10:48.82,Gen_Main,,0000,0000,0000,,Bertholdt… Annie…
+Dialogue: 0,0:10:49.69,0:10:51.00,Gen_Main,,0000,0000,0000,,Marcel…
+Dialogue: 0,0:10:52.19,0:10:54.57,Gen_Main,,0000,0000,0000,,Los devoraron por mi culpa.
+Dialogue: 0,0:10:55.13,0:10:58.04,Gen_Main,,0000,0000,0000,,Los devoraron. Y me devorarán.
+Dialogue: 0,0:10:59.08,0:11:01.37,Gen_Main,,0000,0000,0000,,Voy a morir hoy.
+Dialogue: 0,0:11:05.82,0:11:07.06,Gen_Main,,0000,0000,0000,,No está mal.
+Dialogue: 0,0:11:07.69,0:11:12.49,Gen_Main,,0000,0000,0000,,Es la primera vez que me ganas\Ncorriendo una distancia larga.
+Dialogue: 0,0:11:13.91,0:11:17.24,Gen_Main,,0000,0000,0000,,Si hubiéramos frenado\Nal titán de inmediato,
+Dialogue: 0,0:11:17.52,0:11:19.57,Gen_Main,,0000,0000,0000,,no habríamos perdido la mandíbula.
+Dialogue: 0,0:11:20.54,0:11:21.75,Gen_Main,,0000,0000,0000,,Maldición.
+Dialogue: 0,0:11:22.10,0:11:24.25,Gen_Main,,0000,0000,0000,,Marcel no volverá a casa.
+Dialogue: 0,0:11:24.81,0:11:28.31,Gen_Main,,0000,0000,0000,,Dijeron que no había titanes\Nlejos de la muralla.
+Dialogue: 0,0:11:28.46,0:11:29.53,Gen_Main,,0000,0000,0000,,Regresemos.
+Dialogue: 0,0:11:30.84,0:11:32.53,Gen_Main,,0000,0000,0000,,Busquemos a la mandíbula.
+Dialogue: 0,0:11:32.91,0:11:35.35,Gen_Main,,0000,0000,0000,,Debió recuperar la forma humana.
+Dialogue: 0,0:11:35.80,0:11:40.02,Gen_Main,,0000,0000,0000,,Sin Marcel dándonos órdenes,\Nnunca cumpliremos la misión.
+Dialogue: 0,0:11:42.52,0:11:43.52,Gen_Main,,0000,0000,0000,,Esperen.
+Dialogue: 0,0:11:44.13,0:11:45.26,Gen_Main,,0000,0000,0000,,No.
+Dialogue: 0,0:11:45.70,0:11:46.82,Gen_Main,,0000,0000,0000,,¡No!
+Dialogue: 0,0:11:47.81,0:11:49.02,Gen_Main,,0000,0000,0000,,No podemos volver.
+Dialogue: 0,0:11:49.40,0:11:51.24,Gen_Main,,0000,0000,0000,,Tenemos que seguir con la misión.
+Dialogue: 0,0:11:52.52,0:11:53.69,Gen_Main,,0000,0000,0000,,Claro.
+Dialogue: 0,0:11:54.16,0:11:56.75,Gen_Main,,0000,0000,0000,,Si vuelves ahora,\Nte quitarán al acorazado
+Dialogue: 0,0:11:56.96,0:11:58.82,Gen_Main,,0000,0000,0000,,y otro guerrero te devorará.
+Dialogue: 0,0:11:59.48,0:12:01.37,Gen_Main,,0000,0000,0000,,Pero a mí no me importa.
+Dialogue: 0,0:12:02.00,0:12:03.73,Gen_Main,,0000,0000,0000,,¿Crees que será solo a mí?
+Dialogue: 0,0:12:04.69,0:12:07.97,Gen_Main,,0000,0000,0000,,¿Crees que solo me culparán a mí\Nde que huyéramos todos?
+Dialogue: 0,0:12:08.63,0:12:11.73,Gen_Main,,0000,0000,0000,,¿Estás totalmente segura\Nde que no los purgarán también?
+Dialogue: 0,0:12:12.62,0:12:14.80,Gen_Main,,0000,0000,0000,,Recuperar la mandíbula es mala idea.
+Dialogue: 0,0:12:15.13,0:12:17.66,Gen_Main,,0000,0000,0000,,Si huye usando al titán,
+Dialogue: 0,0:12:17.89,0:12:20.17,Gen_Main,,0000,0000,0000,,nosotros no podemos atraparlo.
+Dialogue: 0,0:12:20.49,0:12:22.48,Gen_Main,,0000,0000,0000,,No lo dominará tan pronto.
+Dialogue: 0,0:12:22.68,0:12:25.37,Gen_Main,,0000,0000,0000,,¡Tú dominaste al colosal enseguida!
+Dialogue: 0,0:12:26.51,0:12:30.02,Gen_Main,,0000,0000,0000,,Si volvemos, estamos acabados.
+Dialogue: 0,0:12:30.19,0:12:33.36,Gen_Main,,0000,0000,0000,,Si no recuperamos al fundador,\Nno podremos regresar.
+Dialogue: 0,0:12:34.49,0:12:35.66,Gen_Main,,0000,0000,0000,,¿Por qué…?
+Dialogue: 0,0:12:35.82,0:12:39.06,Gen_Main,,0000,0000,0000,,Si hubieras pensado con esa calma antes,
+Dialogue: 0,0:12:39.41,0:12:42.11,Gen_Main,,0000,0000,0000,,no habríamos perdido\Nni la mandíbula ni a Marcel.
+Dialogue: 0,0:12:42.87,0:12:46.25,Gen_Main,,0000,0000,0000,,¿Nos estás amenazando para protegerte?
+Dialogue: 0,0:12:48.96,0:12:51.02,Gen_Main,,0000,0000,0000,,¡Discúlpate tú con Magath!
+Dialogue: 0,0:12:51.17,0:12:53.84,Gen_Main,,0000,0000,0000,,¡Dile que fue todo culpa tuya!
+Dialogue: 0,0:12:54.38,0:12:57.60,Gen_Main,,0000,0000,0000,,¡Odio a los honorables marleyenses\Ny a los guerreros!
+Dialogue: 0,0:12:57.76,0:13:00.28,Gen_Main,,0000,0000,0000,,¡Tanto Marley como Eldia mienten!
+Dialogue: 0,0:13:00.43,0:13:02.82,Gen_Main,,0000,0000,0000,,¡Solo piensan en sí mismos!
+Dialogue: 0,0:13:02.97,0:13:06.26,Gen_Main,,0000,0000,0000,,¡Yo también tengo\Nque volver a casa viva!
+Dialogue: 0,0:13:06.44,0:13:08.36,Gen_Main,,0000,0000,0000,,¡Muere y paga por lo que hiciste!
+Dialogue: 0,0:13:08.73,0:13:11.08,Gen_Main,,0000,0000,0000,,¡Muere cargando con la culpa!
+Dialogue: 0,0:13:24.97,0:13:26.92,Gen_Main,,0000,0000,0000,,Reiner está muerto.
+Dialogue: 0,0:13:27.80,0:13:31.80,Gen_Main,,0000,0000,0000,,Si necesitamos a Marcel,\Nyo seré Marcel.
+Dialogue: 0,0:13:33.26,0:13:35.30,Gen_Main,,0000,0000,0000,,Paren ya, por favor.
+Dialogue: 0,0:13:36.51,0:13:40.55,Gen_Main,,0000,0000,0000,,Si queremos volver a casa,\Nesta es la única solución.
+Dialogue: 0,0:13:41.05,0:13:45.73,Gen_Main,,0000,0000,0000,,Volvamos a casa todos juntos.
+Dialogue: 0,0:14:13.00,0:14:14.82,Gen_Italics,,0000,0000,0000,,Quería ser un guerrero.
+Dialogue: 0,0:14:15.69,0:14:20.37,Gen_Italics,,0000,0000,0000,,Cumplir el deseo de mamá\Ny que viviéramos con papá.
+Dialogue: 0,0:14:21.22,0:14:24.51,Gen_Italics,,0000,0000,0000,,Pero mi padre nunca quiso eso.
+Dialogue: 0,0:14:26.10,0:14:28.69,Gen_Italics,,0000,0000,0000,,Mamá seguía soñando\Ncon algo imposible.
+Dialogue: 0,0:14:30.40,0:14:34.33,Gen_Italics,,0000,0000,0000,,Era un guerrero al que no elegirían\Ne iba a morir hoy.
+Dialogue: 0,0:14:36.19,0:14:39.95,Gen_Italics,,0000,0000,0000,,¿Por qué te disculpaste?\N¿Por qué me salvaste?
+Dialogue: 0,0:14:41.11,0:14:43.95,Gen_Italics,,0000,0000,0000,,No quiero que se acabe aquí.
+Dialogue: 0,0:14:44.78,0:14:48.55,Gen_Italics,,0000,0000,0000,,Todavía no entiendo nada.
+Dialogue: 0,0:14:55.09,0:14:57.84,Gen_Main,,0000,0000,0000,,-¿Dónde estamos?\N-Dentro de la Muralla Rose.
+Dialogue: 0,0:15:00.06,0:15:02.48,Gen_Main,,0000,0000,0000,,Annie. Bertholdt.
+Dialogue: 0,0:15:03.55,0:15:04.85,Gen_Main,,0000,0000,0000,,Lo siento.
+Dialogue: 0,0:15:05.60,0:15:09.71,Gen_Main,,0000,0000,0000,,Marcel, me convertiré\Nen un auténtico guerrero.
+Dialogue: 0,0:15:10.73,0:15:13.95,Gen_Main,,0000,0000,0000,,¿Y tú a qué viniste?
+Dialogue: 0,0:15:15.19,0:15:16.97,Gen_Main,,0000,0000,0000,,A salvar a la humanidad.
+Dialogue: 0,0:15:24.20,0:15:27.40,Gen_Main,,0000,0000,0000,,Mi pueblo estaba\Nal sureste de la Muralla María.
+Dialogue: 0,0:15:27.88,0:15:29.69,Gen_Main,,0000,0000,0000,,Fue al amanecer.
+Dialogue: 0,0:15:30.04,0:15:34.86,Gen_Main,,0000,0000,0000,,El ganado estaba alterado\Ny oí unos ruidos inusuales.
+Dialogue: 0,0:15:35.38,0:15:38.38,Gen_Main,,0000,0000,0000,,Cuando comprendí que eran pisadas\Ny abrí la ventana…
+Dialogue: 0,0:15:40.84,0:15:44.15,Gen_Main,,0000,0000,0000,,No recuerdo nada más,\Npero hui en caballo.
+Dialogue: 0,0:15:44.38,0:15:48.64,Gen_Main,,0000,0000,0000,,Dejé atrás a tres niños de su edad.
+Dialogue: 0,0:16:00.14,0:16:01.44,Gen_Main,,0000,0000,0000,,Hola, señorita.
+Dialogue: 0,0:16:01.61,0:16:05.80,Gen_Main,,0000,0000,0000,,Tienes buen gusto\Nsi sigues a un viejo como yo.
+Dialogue: 0,0:16:06.77,0:16:08.79,Gen_Main,,0000,0000,0000,,Nací en una posada.
+Dialogue: 0,0:16:09.33,0:16:13.51,Gen_Main,,0000,0000,0000,,Mi madre trabajaba allí\Ny me crio hablándome de mi padre.
+Dialogue: 0,0:16:13.67,0:16:14.79,Gen_Main,,0000,0000,0000,,Por eso te reconocí.
+Dialogue: 0,0:16:15.08,0:16:16.88,Gen_Main,,0000,0000,0000,,Qué emotivo.
+Dialogue: 0,0:16:17.04,0:16:19.80,Gen_Main,,0000,0000,0000,,Si quieres un abrazo de papá,\Nalza los brazos.
+Dialogue: 0,0:16:20.51,0:16:22.80,Gen_Main,,0000,0000,0000,,¿Puedes estar seguro de que no es así?
+Dialogue: 0,0:16:23.09,0:16:24.97,Gen_Main,,0000,0000,0000,,Juro por mi hermana que sí.
+Dialogue: 0,0:16:25.14,0:16:28.05,Gen_Main,,0000,0000,0000,,Sería una broma\Nque me haría poca gracia.
+Dialogue: 0,0:16:29.72,0:16:31.57,Gen_Main,,0000,0000,0000,,¡Eres cruel, papá!
+Dialogue: 0,0:16:37.94,0:16:41.07,Gen_Main,,0000,0000,0000,,¿Ya estás en esa edad\Nen la que odias a tu padre?
+Dialogue: 0,0:16:43.20,0:16:44.97,Gen_Main,,0000,0000,0000,,Hoy también hace frío.
+Dialogue: 0,0:16:45.29,0:16:47.73,Gen_Main,,0000,0000,0000,,Por sus piernas diría que hoy nevará.
+Dialogue: 0,0:16:47.91,0:16:50.58,Gen_Main,,0000,0000,0000,,No. Su torso dice que hará buen día.
+Dialogue: 0,0:16:50.92,0:16:54.08,Gen_Main,,0000,0000,0000,,Digamos que granizará. Llegarán tarde.
+Dialogue: 0,0:16:54.64,0:16:56.33,Gen_Main,,0000,0000,0000,,¡Despierta, Bertholdt!
+Dialogue: 0,0:16:57.50,0:17:00.97,Gen_Main,,0000,0000,0000,,Mientras ustedes dormían\Ntras divertirse con sus amigos,
+Dialogue: 0,0:17:01.30,0:17:03.88,Gen_Main,,0000,0000,0000,,yo repté por las cloacas de la capital.
+Dialogue: 0,0:17:04.47,0:17:06.86,Gen_Main,,0000,0000,0000,,Con él en juego, no puedo hacer más.
+Dialogue: 0,0:17:07.96,0:17:09.37,Gen_Main,,0000,0000,0000,,Se acabó, ¿eh?
+Dialogue: 0,0:17:10.22,0:17:12.88,Gen_Main,,0000,0000,0000,,Volvamos a Marley\Ncon la información que tenemos.
+Dialogue: 0,0:17:13.16,0:17:15.77,Gen_Main,,0000,0000,0000,,Estarán encantados\Ncon cualquier novedad.
+Dialogue: 0,0:17:16.24,0:17:17.85,Gen_Main,,0000,0000,0000,,¿De verdad piensas eso?
+Dialogue: 0,0:17:18.81,0:17:22.23,Gen_Main,,0000,0000,0000,,A Marley le decepcionará\Nlo que conseguimos en cinco años.
+Dialogue: 0,0:17:22.53,0:17:24.80,Gen_Main,,0000,0000,0000,,¿Y qué quieres que hagamos?
+Dialogue: 0,0:17:25.28,0:17:27.06,Gen_Main,,0000,0000,0000,,Destruiremos la Muralla Rose.
+Dialogue: 0,0:17:27.53,0:17:31.12,Gen_Main,,0000,0000,0000,,Es la única forma\Nde hacer salir al titán fundador.
+Dialogue: 0,0:17:31.64,0:17:34.20,Gen_Main,,0000,0000,0000,,Morirán muchos de sus amigos.
+Dialogue: 0,0:17:35.28,0:17:37.08,Gen_Main,,0000,0000,0000,,Ya lo dije mil veces.
+Dialogue: 0,0:17:37.37,0:17:39.58,Gen_Main,,0000,0000,0000,,No son amigos, son demonios.
+Dialogue: 0,0:17:40.12,0:17:42.24,Gen_Main,,0000,0000,0000,,Pero ganarse su confianza no está mal.
+Dialogue: 0,0:17:42.42,0:17:45.09,Gen_Main,,0000,0000,0000,,Tu actitud distante es más delatadora.
+Dialogue: 0,0:17:45.26,0:17:46.26,Gen_Main,,0000,0000,0000,,Voy a vomitar.
+Dialogue: 0,0:17:46.60,0:17:48.86,Gen_Main,,0000,0000,0000,,No acerques más tu cara.
+Dialogue: 0,0:17:50.93,0:17:51.97,Gen_Main,,0000,0000,0000,,Estarás cansada.
+Dialogue: 0,0:17:52.96,0:17:55.91,Gen_Main,,0000,0000,0000,,Siento que tengas que hacer\Ntodo el trabajo.
+Dialogue: 0,0:17:56.56,0:17:58.24,Gen_Main,,0000,0000,0000,,Dejémoslo por hoy.
+Dialogue: 0,0:18:03.81,0:18:06.33,Gen_Main,,0000,0000,0000,,Siempre sueño con lo mismo.
+Dialogue: 0,0:18:07.25,0:18:09.73,Gen_Main,,0000,0000,0000,,Con el hombre que se colgó.
+Dialogue: 0,0:18:11.20,0:18:16.75,Gen_Main,,0000,0000,0000,,¿Por qué nos contaría aquello\Nantes de suicidarse?
+Dialogue: 0,0:18:24.67,0:18:27.82,Gen_Main,,0000,0000,0000,,Descansa un poco, Eren.\NAcabarás muriéndote.
+Dialogue: 0,0:18:28.05,0:18:29.20,Gen_Main,,0000,0000,0000,,Maldición.
+Dialogue: 0,0:18:30.26,0:18:32.72,Gen_Main,,0000,0000,0000,,Reiner, ¿cómo puedo ser igual?
+Dialogue: 0,0:18:33.51,0:18:36.48,Gen_Main,,0000,0000,0000,,¿Cómo me vuelvo como Mikasa o tú?
+Dialogue: 0,0:18:37.73,0:18:41.73,Gen_Main,,0000,0000,0000,,A este paso, no conseguiré nada.
+Dialogue: 0,0:18:47.99,0:18:49.70,Gen_Main,,0000,0000,0000,,Haz lo que puedas.
+Dialogue: 0,0:18:50.94,0:18:52.48,Gen_Main,,0000,0000,0000,,Sigue avanzando.
+Dialogue: 0,0:18:54.46,0:18:55.70,Gen_Main,,0000,0000,0000,,Es la única solución.
+Dialogue: 0,0:18:56.13,0:18:58.45,Gen_Main,,0000,0000,0000,,Sí. Tienes razón.
+Dialogue: 0,0:19:00.92,0:19:03.33,Gen_Main,,0000,0000,0000,,Exterminarás a todos los titanes, ¿no?
+Dialogue: 0,0:19:04.19,0:19:05.66,Gen_Main,,0000,0000,0000,,Puedes hacerlo.
+Dialogue: 0,0:19:21.76,0:19:22.94,Gen_Main,,0000,0000,0000,,¡Maldición!
+Dialogue: 0,0:19:23.39,0:19:25.44,Gen_Main,,0000,0000,0000,,No puedo seguir así.
+Dialogue: 0,0:19:33.45,0:19:34.78,Gen_Main,,0000,0000,0000,,Es verdad.
+Dialogue: 0,0:19:35.09,0:19:38.13,Gen_Main,,0000,0000,0000,,Todavía los tengo a ellos.
+Dialogue: 0,0:19:46.56,0:19:47.62,Gen_Main,,0000,0000,0000,,El hospital.
+Dialogue: 0,0:19:48.34,0:19:49.33,Gen_Main,,0000,0000,0000,,Hola.
+Dialogue: 0,0:19:55.02,0:19:57.93,Gen_Main,,0000,0000,0000,,Parece que estás mejorando.
+Dialogue: 0,0:19:58.22,0:20:00.15,Gen_Main,,0000,0000,0000,,Ya puedes hablar.
+Dialogue: 0,0:20:00.40,0:20:01.51,Gen_Main,,0000,0000,0000,,Sí.
+Dialogue: 0,0:20:02.01,0:20:04.64,Gen_Main,,0000,0000,0000,,Vine por problemas psicológicos,
+Dialogue: 0,0:20:04.93,0:20:06.11,Gen_Main,,0000,0000,0000,,pero era mentira.
+Dialogue: 0,0:20:07.05,0:20:10.28,Gen_Main,,0000,0000,0000,,Dije que no puedo volver a casa\Nporque tengo amnesia,
+Dialogue: 0,0:20:10.76,0:20:12.90,Gen_Main,,0000,0000,0000,,pero es solo que no quiero volver.
+Dialogue: 0,0:20:13.37,0:20:15.95,Gen_Main,,0000,0000,0000,,No sé cómo mirar a mi familia a la cara.
+Dialogue: 0,0:20:17.46,0:20:18.91,Gen_Main,,0000,0000,0000,,¿Lo contarás?
+Dialogue: 0,0:20:19.42,0:20:21.06,Gen_Main,,0000,0000,0000,,No lo haré.
+Dialogue: 0,0:20:22.57,0:20:23.73,Gen_Main,,0000,0000,0000,,Te lastimaste.
+Dialogue: 0,0:20:24.17,0:20:26.06,Gen_Main,,0000,0000,0000,,¿Fue entrenando para ser guerrero?
+Dialogue: 0,0:20:26.54,0:20:27.62,Gen_Main,,0000,0000,0000,,Sí.
+Dialogue: 0,0:20:27.79,0:20:29.80,Gen_Main,,0000,0000,0000,,Pero yo no me convertiré en uno.
+Dialogue: 0,0:20:30.35,0:20:32.68,Gen_Main,,0000,0000,0000,,Hay un candidato mucho mejor que yo.
+Dialogue: 0,0:20:33.22,0:20:35.00,Gen_Main,,0000,0000,0000,,No creo que me elijan.
+Dialogue: 0,0:20:35.55,0:20:36.84,Gen_Main,,0000,0000,0000,,Me alegra oírlo.
+Dialogue: 0,0:20:38.09,0:20:39.51,Gen_Main,,0000,0000,0000,,Eres un buen chico.
+Dialogue: 0,0:20:40.00,0:20:42.17,Gen_Main,,0000,0000,0000,,Espero que vivas mucho tiempo.
+Dialogue: 0,0:20:44.45,0:20:47.57,Gen_Main,,0000,0000,0000,,Pero yo no quiero que lo sea.
+Dialogue: 0,0:20:48.03,0:20:49.06,Gen_Main,,0000,0000,0000,,¿Por qué?
+Dialogue: 0,0:20:51.69,0:20:54.02,Gen_Main,,0000,0000,0000,,¿La candidata es una chica?
+Dialogue: 0,0:20:55.03,0:20:56.95,Gen_Main,,0000,0000,0000,,Aquí la conocen todos.
+Dialogue: 0,0:20:57.52,0:21:00.11,Gen_Main,,0000,0000,0000,,Hizo algo increíble en la última guerra.
+Dialogue: 0,0:21:00.98,0:21:04.26,Gen_Main,,0000,0000,0000,,Todo el mundo dice que será\Nel próximo acorazado.
+Dialogue: 0,0:21:05.12,0:21:07.51,Gen_Main,,0000,0000,0000,,Como no soy fuerte,
+Dialogue: 0,0:21:07.85,0:21:10.28,Gen_Main,,0000,0000,0000,,se acabará sin que pueda hacer nada.
+Dialogue: 0,0:21:14.40,0:21:16.42,Gen_Main,,0000,0000,0000,,Desde que llegué, cada día pienso:
+Dialogue: 0,0:21:17.29,0:21:19.80,Gen_Main,,0000,0000,0000,,"¿Cómo acabamos así?".
+Dialogue: 0,0:21:20.65,0:21:22.56,Gen_Main,,0000,0000,0000,,Nos corroen cuerpo y mente.
+Dialogue: 0,0:21:22.96,0:21:25.06,Gen_Main,,0000,0000,0000,,Nos roban la libertad.
+Dialogue: 0,0:21:25.52,0:21:27.31,Gen_Main,,0000,0000,0000,,Acabamos perdiéndonos.
+Dialogue: 0,0:21:28.27,0:21:30.24,Gen_Main,,0000,0000,0000,,De saber lo que pasaría,
+Dialogue: 0,0:21:30.90,0:21:32.77,Gen_Main,,0000,0000,0000,,nadie iría al campo de batalla.
+Dialogue: 0,0:21:33.94,0:21:39.15,Gen_Main,,0000,0000,0000,,Pero siempre hay algo que te empuja\Na poner un pie en el infierno.
+Dialogue: 0,0:21:39.89,0:21:42.57,Gen_Main,,0000,0000,0000,,La mayoría de veces\Nno es por voluntad propia.
+Dialogue: 0,0:21:42.89,0:21:46.08,Gen_Main,,0000,0000,0000,,Tu entorno te fuerza a hacerlo.
+Dialogue: 0,0:21:47.46,0:21:52.60,Gen_Main,,0000,0000,0000,,Pero el infierno de quien se empuja\Na sí mismo es distinto.
+Dialogue: 0,0:21:53.28,0:21:56.37,Gen_Main,,0000,0000,0000,,Ve lo que hay más allá de ese infierno.
+Dialogue: 0,0:21:57.09,0:22:01.37,Gen_Main,,0000,0000,0000,,Puede que sea esperanza\No puede que sea un nuevo infierno.
+Dialogue: 0,0:22:02.56,0:22:06.98,Gen_Main,,0000,0000,0000,,Eso solo lo descubre\Nquien continúa avanzando.
+Dialogue: 0,0:22:06.98,0:22:09.97,Gen_Nota,,0000,0000,0000,,{\pos(449,280)\blur0.6}Continuará
+Dialogue: 0,0:23:39.98,0:23:42.98,Cart_TitleEp,,0000,0000,0000,,{\pos(320,135)}Avance
+Dialogue: 0,0:23:40.65,0:23:45.88,Gen_Italics,,0000,0000,0000,,Magath colabora con la familia Tybur\Npara contar la verdad.
+Dialogue: 0,0:23:46.27,0:23:48.78,Gen_Italics,,0000,0000,0000,,Mientras la ciudad\Nespera ansiosa el evento,
+Dialogue: 0,0:23:49.05,0:23:52.28,Gen_Italics,,0000,0000,0000,,Reiner se encuentra con algo inesperado.
+Dialogue: 0,0:23:52.75,0:23:55.00,Gen_Main,,0000,0000,0000,,Próximo episodio: "De mano en mano".
+Dialogue: 0,0:23:52.99,0:23:54.99,Cart_TitleEp,,0000,0000,0000,,{\pos(317,130)}De mano en mano
